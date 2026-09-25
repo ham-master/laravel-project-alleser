@@ -1,7 +1,7 @@
 # laravel-project-alleser
 
 Project Code: WST21-PM-2026-SF
-Student Name: Hannah May Alleser
+Student Name: Hannah May Aleser
 Course & Year: 2nd Year BSIT
 Database Used: SQLite
 Features:
